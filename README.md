@@ -1,7 +1,6 @@
 [![MasterHead](https://i.gifer.com/2A5.gif)](https://swastik-jain.vercel.app/)
 <h1 align="center">Hi 👋, I'm Swastik Jian</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-![](https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif)
 <img src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" width="400" align="right" />
                                                                               
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swastik-github&label=Profile%20views&color=0e75b6&style=flat" alt="swastik-github" /> </p>
