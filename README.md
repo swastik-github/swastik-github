@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <img src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" width="400" align="right" />
 
-![](https://user-images.githubusercontent.com/62525040/182235022-544d2683-4c43-4d89-901a-e554abf2681b.mp4)
+
                                                                               
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swastik-github&label=Profile%20views&color=0e75b6&style=flat" alt="swastik-github" /> </p>
 
@@ -27,3 +27,13 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=swastik-github&show_icons=true&locale=en&layout=compact" alt="swastik-github" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swastik-github&" alt="swastik-github" /></p>
+
+
+
+
+
+
+
+
+
+
