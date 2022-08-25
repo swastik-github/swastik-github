@@ -1,5 +1,5 @@
 [![MasterHead](https://i.gifer.com/2A5.gif)](https://swastik-jain.vercel.app/)
-<h1 align="center">Hi 👋, I'm Swastik Jian</h1>
+<h1 align="center">Heyy 👋, I'm Swastik Jain</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" width="400" align="right" />
 
